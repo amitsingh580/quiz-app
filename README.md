@@ -22,7 +22,13 @@ To run this project, ensure you have:
 - A modern web browser (Chrome, Edge, Firefox)
 - Basic knowledge of HTML, CSS, and JavaScript
 
+##File Structure
+│── index.html       # Main quiz interface
+│── style.css        # Styling for the quiz
+│── script.js        # Quiz logic and interactivity
+
 ### Installation
-1. Clone this repository:
+1.Navigate to the project directory:
    ```sh
-   git clone https://github.com/yourusername/quiz-app.git
+   cd quiz-app
+   quiz-app/
